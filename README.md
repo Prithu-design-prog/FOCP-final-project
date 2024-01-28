@@ -1,9 +1,7 @@
-# FOCP-final-project
-# FOCP-final-project
 
 # FOCP-final-project
-**
-#task 1**
+**#task 1**
+
 This task is about creating a program that can calculate the price of a pizza order from Beckett Pizza Plaza (BPP). The program should ask the user for the number of pizzas, the delivery option, and the app usage. The program should also check if it is Tuesday, as there are different discounts on that day. The program should then apply the appropriate discounts and display the total price in pounds.
 This code is a program that calculates the total price of a pizza order based on the following factors:
 
